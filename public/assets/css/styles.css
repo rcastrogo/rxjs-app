@@ -1,0 +1,21 @@
+.c-table { background-color: silver;border-spacing: 1px;text-align: center;}
+.c-table td {
+    background-color: White;
+    width: 14.28571%;
+    text-align: right;
+    vertical-align: top;
+    padding: 4px 4px 0;
+    position: relative;
+}
+
+.c-table td.c-day {
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.c-table td.c-day-disabled {
+    color: silver;
+    font-size: 12px;
+    font-family: monospace;
+}
+
